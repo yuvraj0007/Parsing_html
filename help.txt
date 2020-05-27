@@ -1,0 +1,4 @@
+step 1: install the python3 in your system
+step 2: run the python program using command python3 BeautifulSoup.py
+step 3: enter the url 
+step 4 check the result in test.txt file 
